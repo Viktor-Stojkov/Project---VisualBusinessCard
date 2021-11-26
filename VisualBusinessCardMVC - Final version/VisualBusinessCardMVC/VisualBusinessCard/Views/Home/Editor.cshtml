@@ -1,0 +1,255 @@
+﻿<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+<link rel="stylesheet" href="~/css/editor.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link class="jsbin" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/base/jquery-ui.css" rel="stylesheet" type="text/css" />
+<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
+
+<section class="header">
+    <nav>
+        <p id="logo">InRoom Preview</p>
+        <div class="nav-links" id="navLinks">
+            <i class="fas fa-times" id="hideMenu"></i>
+            <ul>
+                <li><a href="../Templates/index.html">HOME</a></li>
+                <li><a href="../Templates/index.html">HOW IT WORKS</a></li>
+                <li><a href="../Templates/index.html">ABOUT US</a></li>
+                <li><a href="../Templates/index.html">CONTACT</a></li>
+                <li><a href="../Templates/index.html">JOIN US</a></li>
+                <li><a href="#">CREATE NOW</a></li>
+            </ul>
+        </div>
+        <i class="fas fa-bars" id="showMenu"></i>
+    </nav>
+
+
+    <!-- =================================    EDITOR     ===================================== -->
+
+    <div class="editor">
+        <div class="box">
+            <div class="menu">
+                <ul>
+                    <li id="templates"> <i class="fas fa-images"></i> <br> TEMPLATES</li>
+                    <li id="code-qr"> <i class="fas fa-qrcode"></i> <br> QR CODE</li>
+                    <li>
+
+                        <i class="fas fa-download" onclick="downloadFunction()"></i> <input id="btn_convert" type="button" value="DOWNLOAD" onclick="downloadFunction()">
+
+                        <br>
+                        <div id="previewImg" style="display: none;">
+                        </div>
+                    </li>
+
+                    <li>
+                        <!-- below needs to be the clients email -->
+                        <a class="contact-link" target="_blank" href="mailto:john.doe@gmail.com">
+                            <i class="fas fa-phone-alt"> </i> <br> CONTACT US
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="menu-options">
+                <div class="templates-options">
+                    <label id="label" for="templates">Choose a template:</label>
+                    <br>
+                    <select id="templates-select" class="changeTemplates">
+                        <option class="option-template" value="photographer">Photographer</option>
+                        <option class="option-template" value="artist">Artist</option>
+                    </select>
+                    <div class="template-images">
+                        <img src="../Images/template1.jpg" alt="template1" class="t artist artist1">
+
+                        <img src="../Images/template2.jpg" alt="template2" class="t artist artist2">
+                        <img src="../Images/template3.jpg" alt="template3" class="t artist artist3">
+                        <img src="../Images/template4.jpg" alt="template4" class="t photographer artist4">
+                        <img src="../Images/template5.jpg" alt="template5" class="t photographer artist5">
+                        <img src="../Images/template6.jpg" alt="template6" class="t photographer artist6">
+                    </div>
+                </div>
+
+
+                <div class="qr-code-options">
+                    <p class="paragraph">Enter the address which the QR code will lead to : </p>
+                    <input type="text" id="qr-data" placeholder="URL link" size="50">
+
+                </div>
+            </div>
+        </div>
+
+        <div class="text-Options">
+            <select name="fontSize" id="fontSizeSelect">
+                <option value="selectSize" disabled selected>Select size</option>
+                <option value="small">Small</option>
+                <option value="medium">Medium</option>
+                <option value="large">Large</option>
+                <option value="x-large">X-large</option>
+                <option value="xx-large">XX-large</option>
+                <option value="xxx-large">XXX-large</option>
+
+            </select>
+
+            <select id="fontFamily">
+                <!-- new code for FontFamily -->
+                <option value="selectFontFamily" disabled selected>Choice Font Family</option>
+                <option value="sans-serif">Sans Serif</option>
+                <option value="serif">Serif</option>
+                <option value="Helvetica">Helvetica</option>
+                <option value="verdana">Verdana</option>
+                <option value="Comic Sans MS">Comic Sans</option>
+                <option value="Mavenpro">Mavenpro</option>
+            </select>
+
+
+
+
+            <a href="#" class="bold1"><i class="fas a fa-bold"></i></a>
+            <a href="#" class="italic1"><i class="fas a fa-italic"></i></a>
+            <a href="#" class="underline1"><i class="fas a fa-underline"></i></a>
+            <a href="#" class="fontCase1"><i class="fas a fa-font-case"></i></a>
+        </div>
+
+        <div class="create" id="invoice">
+
+
+
+
+            <div class="example1">
+                <div id="qrcode1"></div>
+                <div class="logoUpload1">
+                    <input type="file" onchange="readURL1(this);" id="uploadButton blah" class="logoButton1">
+                    <img id="blah1" class="imagesLogo" src="#" alt="" />
+                </div>
+                <div id="textarea-div">
+                    <div id="textarea-div2">
+                        <input class="textBox" id="art1" placeholder="Leine Art Kunstagalerie" type="text">
+                        <input class="textBox" id="streetNum1" placeholder="Rosmuhle 2," type="text">
+                        <input class="textBox" id="postcode1" placeholder="30159 Hannover" type="text">
+                        <input class="textBox" id="phoneNumber1" placeholder="Tel: +4915757950417" type="text">
+                        <input class="textBox" id="emailAdress1" placeholder="e-mail: info@line-art.de" type="text">
+                        <input class="textBox" id="galleryCode1" placeholder="1234" type="text">
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="example2">
+                <div id="qrcode"></div>
+                <div class="logoUpload">
+                    <input type="file" onchange="readURL(this);" id="uploadButton blah" class="logoButton">
+                    <img id="blah" src="#" alt="" />
+                </div>
+                <div id="inputAndLogo">
+                    <div id="textarea-div2">
+
+                        <input class="textBox1" id="nameInput" placeholder="Oleksii	Gnievyshev" type="text">
+                        <input class="textBox" id="professionInput" placeholder="Artist" type="text">
+                        <input class="textBox" id="website" placeholder="www.gnievyshev.de" type="text">
+                        <input class="textBox" id="phoneNumber" placeholder="Tel. +4915757950417" type="text">
+                        <input class="textBox" id="emailAdress" placeholder="e-mail:oleksiignievyshev@gmail.com" type="text">
+                        <input class="textBox" id="galleryCode" placeholder="1234" type="text">
+                    </div>
+                </div>
+            </div>
+            <div class="example3">
+                <div id="qrcode2"></div>
+                <div class="logoUpload3">
+                    <input type="file" onchange="readURL3(this);" id="uploadButton blah" class="logoButton2">
+                    <img id="blah3" src="#" alt="" />
+                </div>
+                <div id="textarea-div3">
+                    <div id="textarea-div2">
+                        <input class="textBox" id="nameInput3" placeholder="Wildlife Art Gallery" type="text">
+                        <input class="textBox" id="postcode3" placeholder="263 Marble Pt. Rd." type="text">
+                        <input class="textBox" id="address3" placeholder="Marmora Ontario" type="text">
+                        <input class="textBox" id="phoneNumber3" placeholder="Tel. +4915757950417" type="text">
+                        <input class="textBox" id="website3" placeholder="www.ronpalzier.com" type="text">
+                        <input class="textBox" id="galleryCode3" placeholder="1234" type="text">
+                    </div>
+
+
+
+                </div>
+
+            </div>
+
+            <div class="example5">
+                <div id="qrcode5"></div>
+                <div class="logoUpload5">
+                    <input type="file" onchange="readURL5(this);" id="uploadButton blah" class="logoButton5">
+                    <img id="blah5" src="#" alt="" />
+                </div>
+                <div id="textarea-div5">
+                    <div id="textarea-div2">
+                        <input class="textBox" id="name5" placeholder="pavlina_kuzmanova" type="text">
+                        <input class="textBox" id="insta5" placeholder="pav_li_na" type="text">
+                        <input class="textBox" id="tittle5" placeholder="Pavlina Kuzmanova" type="text">
+                        <input class="textBox" id="galleryCode5" placeholder="1234" type="text">
+                    </div>
+                </div>
+
+            </div>
+            <div class="example6">
+                <div id="qrcode6"></div>
+                <div class="logoUpload6">
+                    <input type="file" onchange="readURL6(this);" id="uploadButton blah" class="logoButton6">
+                    <img id="blah6" src="#" alt="" />
+                </div>
+                <div id="textarea-div6">
+                    <div id="textarea-div2">
+                        <input class="textBox" id="name6" placeholder="pavlina_kuzmanova" type="text">
+                        <input class="textBox" id="insta6" placeholder="pav_li_na" type="text">
+                        <input class="textBox" id="tittle6" placeholder="Pavlina Kuzmanova" type="text">
+                        <input class="textBox" id="galleryCode6" placeholder="1234" type="text">
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="create1" id="create1">
+            <div class="logoUpload4">
+                <input type="file" onchange="readURL4(this);" id="uploadButton blah" class="logoButton4">
+                <img id="blah4" src="#" alt="" />
+            </div>
+            <img class="temp4" src="../Images/template4.png" />
+            <div class="example4">
+                <div id="qrcode4"></div>
+
+                <div id="textarea-div4">
+                    <div id="textarea-div2">
+                        <input class="textBox" id="name4" placeholder="pavlina_kuzmanova" type="text">
+                        <input class="textBox" id="insta4" placeholder="pav_li_na" type="text">
+                        <input class="textBox" id="tittle4" placeholder="Pavlina Kuzmanova" type="text">
+                        <input class="textBox" id="galleryCode4" placeholder="1234" type="text">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="previewImage" style="display: block"></div>
+</section>
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+
+
+<script src="~/js/qrcode.min.js"></script>
+
+<script src="~/js/qr.js"></script>
+
+
+
+
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.3/jspdf.min.js"></script>
+<script src="https://html2canvas.hertzen.com/dist/html2canvas.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+<script src="~/js/upload.js" asp-append-version="true"></script>
+<script src="~/js/download.js" asp-append-version="true"></script>
+<script src="~/js/editor.js" asp-append-version="true"></script>

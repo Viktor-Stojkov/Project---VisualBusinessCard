@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - VisualBusinessCard</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,900,900i" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+    <div class="footer-content">
+        <h3>InRoom Preview</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut modi optio tempora pariatur aperiam officiis, aliquid illum non quam est magnam impedit nulla perferendis quos eveniet unde eaque dolorum exercitationem.</p>
+    </div>
+    <ul class="socialas">
+        <li><a href="https://www.facebook.com/inroompreview/"><i class="fab fa-facebook"> &nbsp; Facebook</i></a>
+        </li>
+        <li><a href="https://www.instagram.com/inroompreview/"><i class="fab fa-instagram"></i>&nbsp;Instagram</a>
+        </li>
+        <li><a href="https://www.linkedin.com/company/inroompreview/about/"><i class="fab fa-linkedin-in"></i>&nbsp;Linkedin</a></li>
+    </ul>
+    <br><br>
+    <div class="footer-bottom">
+        <p>Copyright &copy;2021 InRoom Preview</p>
+    </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src='https://code.jquery.com/jquery-3.2.1.min.js'>
+    </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="~/js/app.js" asp-append-version="true"></script>
+    <script src="~/js/log.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

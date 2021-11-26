@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - VisualBusinessCards</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+          integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="~/css/style.css" rel="stylesheet" />
+    <link href="~/css/editor.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,900,900i" rel="stylesheet">
+</head>
+<body>
+    
+        @*==============  HOME  ================*@
+
+        <a id="backToTopButton"></a>
+
+        <section class="header">
+            <nav>
+                <p id="logo">InRoom Preview</p>
+                <div class="nav-links" id="navLinks">
+                    <i class="fas fa-times" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="#">HOME</a></li>
+                        <li><a href="#howItWorks">HOW IT WORKS</a></li>
+                        <li><a href="#aboutUs">ABOUT US</a></li>
+                        <li><a href="#contact">CONTACT</a></li>
+                        <li><a href="#joinUs">JOIN US</a></li>
+                        <li><a asp-action="Editor">CREATE</a></li>
+                    </ul>
+                </div>
+                <i class="fas fa-bars" onclick="showMenu()"></i>
+            </nav>
+
+            @*===============================    JAVASCRIPT    ============================*@
+
+            <script src='https://code.jquery.com/jquery-3.2.1.min.js'>
+            </script>
+
+            <script>
+                let navLinks = document.getElementById("navLinks");
+                function showMenu() {
+                    navLinks.style.right = "0";
+                }
+
+                function hideMenu() {
+                    navLinks.style.right = "-200px";
+
+                }
+                var x = document.getElementById('login');
+                var y = document.getElementById('register');
+                var z = document.getElementById('btn');
+                function register() {
+                    x.style.left = '-600px';
+                    y.style.left = '-25px';
+                    z.style.left = '110px';
+                }
+                function login() {
+                    x.style.left = '-15px';
+                    y.style.left = '450px';
+                    z.style.left = '0px';
+                }
+
+                var modal = document.getElementById('login-form');
+                window.onclick = function (event) {
+                    if (event.target == modal) {
+                        modal.style.display = "none";
+                    }
+                }
+
+            </script>
+
+            <div class="container">
+ 
+                    @RenderBody()
+
+            </div>
+
+            @*================   FOOTER   ===================*@
+
+
+
+            <footer>
+                <div class="footer-content">
+                    <h3>InRoom Preview</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut modi optio tempora pariatur aperiam
+                        officiis, aliquid illum non quam est
+                        magnam impedit nulla perferendis quos eveniet unde eaque dolorum exercitationem.
+                    </p>
+                </div>
+                <ul class="socialas">
+                    <li>
+                        <a href="https://www.facebook.com/inroompreview/"><i class="fab fa-facebook"> &nbsp; Facebook</i></a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/inroompreview/"><i class="fab fa-instagram"></i>&nbsp;Instagram</a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/inroompreview/about/">
+                            <i class="fab fa-linkedin-in"></i>&nbsp;Linkedin
+                        </a>
+                    </li>
+                </ul>
+                <br><br>
+                <div class="footer-bottom">
+                    <p>Copyright &copy;2021 InRoom Preview</p>
+                </div>
+            </footer>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+            integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/app.js" asp-append-version="true"></script>
+    <script src="~/js/download.js"></script>
+    <script src="~/js/editor.js"></script>
+    <script src="~/js/qr.js"></script>
+    <script src="~/js/qrcode.min.js"></script>
+    <script src="~/js/upload.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

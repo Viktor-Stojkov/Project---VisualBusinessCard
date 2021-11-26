@@ -1,0 +1,116 @@
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.exe
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.deps.json
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.dll
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.pdb
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.Views.dll
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.Views.pdb
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.AssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorAssemblyInfo.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorAssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\staticwebassets\VisualBusinessCard.StaticWebAssets.Manifest.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\staticwebassets\VisualBusinessCard.StaticWebAssets.xml
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\scopedcss\bundle\VisualBusinessCard.styles.css
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.TagHelpers.input.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.TagHelpers.output.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorCoreGenerate.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Editor.cshtml.g.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorTargetAssemblyInfo.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorTargetAssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.Views.pdb
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.dll
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.pdb
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.genruntimeconfig.cache
+C:\Users\Danilo Borozan\Desktop\MVC\VisualBusinessCard\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.CopyComplete
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.exe
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.deps.json
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.runtimeconfig.json
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.runtimeconfig.dev.json
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.dll
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.pdb
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.Views.dll
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.Views.pdb
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.AssemblyInfo.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorAssemblyInfo.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorAssemblyInfo.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\staticwebassets\VisualBusinessCard.StaticWebAssets.Manifest.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\staticwebassets\VisualBusinessCard.StaticWebAssets.xml
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\scopedcss\bundle\VisualBusinessCard.styles.css
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.TagHelpers.input.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.TagHelpers.output.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorCoreGenerate.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Editor.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorTargetAssemblyInfo.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorTargetAssemblyInfo.cs
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.Views.pdb
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.dll
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.pdb
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.genruntimeconfig.cache
+C:\Users\vices\Desktop\SEDC\VisualBusinieseCard\VisualBusinessCardMVC\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.CopyComplete
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.exe
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.deps.json
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.runtimeconfig.json
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.runtimeconfig.dev.json
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.dll
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.pdb
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.Views.dll
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\bin\Debug\netcoreapp3.1\VisualBusinessCard.Views.pdb
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.AssemblyInfo.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorAssemblyInfo.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorAssemblyInfo.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\staticwebassets\VisualBusinessCard.StaticWebAssets.Manifest.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\staticwebassets\VisualBusinessCard.StaticWebAssets.xml
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\scopedcss\bundle\VisualBusinessCard.styles.css
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.TagHelpers.input.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.TagHelpers.output.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorCoreGenerate.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Editor.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorTargetAssemblyInfo.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.RazorTargetAssemblyInfo.cs
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.Views.pdb
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.dll
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.pdb
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.genruntimeconfig.cache
+C:\Users\vices\Desktop\SEDC\Project - VisualBusinessCard\Project---VisualBusinessCard\VisualBusinessCardMVC - Final version\VisualBusinessCardMVC\VisualBusinessCard\obj\Debug\netcoreapp3.1\VisualBusinessCard.csproj.CopyComplete
